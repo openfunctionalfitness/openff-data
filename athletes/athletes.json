@@ -1,0 +1,17 @@
+[
+    {
+        "id": "8ad16df5-007f-4070-936c-69e7b33d0264",
+        "name": "Max Mustermann",
+        "country": "de",
+        "gym-mappings": [
+            {"gym": "Independent", "hash": "sdkfj89jdskf09"}
+        ],
+        "name-mappings": [
+            {"name": "max mustermann", "hash": "dakjsfkdkfj"}
+        ],
+        "social-media": {
+            "instagram": "max_mustermann", 
+            "tiktok": "max_mustermann"
+        }
+    }
+]

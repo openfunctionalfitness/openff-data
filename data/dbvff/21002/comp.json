@@ -1,0 +1,17 @@
+{
+    "competition": {
+        "name": "DBVfF Deutsche Meisterschaft 2021",
+        "division": "Männer",
+        "date": {"start": "2021-09-21", "end": "2021-09-22"},
+        "venue": "Gold's Gym Performance Center",
+        "location": "Berlin, Germany"
+    },
+    "url": {
+        "leaderboard": "https://competitioncorner.net/ff/5496/results#male_31716",
+        "website": "https://dbvff.de/2021-deutsche-meisterschaft"
+    },
+    "classification": {
+        "age": "all",
+        "gender": "m"
+    }
+}
